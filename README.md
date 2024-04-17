@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
-jgksjgksdjgdkrrhksdjkflhfdjhfdkjhfdlkhjfdklhfdjhlkfdjhklfdjhfdlkhjrkdlfkhjfdkh
+## Website Contents
 
-## More Ipsum
-jlsjgklglfdg
+What i want in website
